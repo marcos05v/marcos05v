@@ -29,7 +29,7 @@
 
 ### Mis Proyectos
 
-- **[Proyecto 1](https://github.com/marcos05v/poyectos-La-Salle/tree/main/htdocs)**: En este proyecto cree un página que simula una página de un estacionamiento, donde el usuario ingresa los datos del cliente, los de su vehiculo entre otros para el registro del vehículo, para el desarrollo de la página use html, php y css donde cree formularios que es donde se insertan los datos, php lo use para conectarlo a la base de datos, la cual fue creada con sql. El objetivo de este proyecto fue para el examen ordinario de la materia de  base de datos.
+- **[Parking Page](https://github.com/marcos05v/poyectos-La-Salle/tree/main/htdocs)**: En este proyecto cree un página que simula una página de un estacionamiento, donde el usuario ingresa los datos del cliente, los de su vehiculo entre otros para el registro del vehículo, para el desarrollo de la página use html, php y css donde cree formularios que es donde se insertan los datos, php lo use para conectarlo a la base de datos, la cual fue creada con sql. El objetivo de este proyecto fue para el examen ordinario de la materia de  base de datos.
 
 ### Mi Trayectoria de Aprendizaje
 
