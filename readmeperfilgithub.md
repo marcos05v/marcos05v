@@ -6,7 +6,7 @@
 
 ## Sobre Mí
 
-¡Hola! Soy uestudiante de la Universidad La Salle de tercer semestre, me gusta mucho el desarrollo web y movil, no he tenido tanta experiencia en el desarrollo web pero lo poco lo he realizado con gran pasión, una de mis metas a futuro es poder conseguir un trabajo para empezar a crear experiencia laboral y ya con el tiempo unirme a una empresa reconocida para el desarrollo.
+¡Hola! Soy un estudiante de la Universidad La Salle de tercer semestre, desde la secundaria me ha fascinado lo que es la programación y lo mucho que se puede hacer con estos conocimientos, aparte de la programación me gusta mucho la música, se tocar la guitarra, bajo y teclado, me considero como una persona responsable y dedicado a lo que le gusta aunque aveces suelo procrastinar un poco pero eso no impide mi hambre de conocimiento en estos temas de programación y desarrollo web, me gusta mucho el desarrollo web y movil, no he tenido tanta experiencia en el desarrollo web pero lo poco lo he realizado con gran pasión, una de mis metas a futuro es poder conseguir un trabajo para empezar a crear experiencia laboral y ya con el tiempo unirme a una empresa reconocida para el desarrollo.
 
 ### Lenguajes y Herramientas
 
